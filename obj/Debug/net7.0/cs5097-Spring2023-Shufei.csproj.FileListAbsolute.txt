@@ -1,0 +1,15 @@
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\bin\Debug\net7.0\cs5097-Spring2023-Shufei.exe
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\bin\Debug\net7.0\cs5097-Spring2023-Shufei.deps.json
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\bin\Debug\net7.0\cs5097-Spring2023-Shufei.runtimeconfig.json
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\bin\Debug\net7.0\cs5097-Spring2023-Shufei.dll
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\bin\Debug\net7.0\cs5097-Spring2023-Shufei.pdb
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\cs5097-Spring2023-Shufei.csproj.AssemblyReference.cache
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\cs5097-Spring2023-Shufei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\cs5097-Spring2023-Shufei.AssemblyInfoInputs.cache
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\cs5097-Spring2023-Shufei.AssemblyInfo.cs
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\cs5097-Spring2023-Shufei.csproj.CoreCompileInputs.cache
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\cs5097-Spring2023-Shufei.dll
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\refint\cs5097-Spring2023-Shufei.dll
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\cs5097-Spring2023-Shufei.pdb
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\cs5097-Spring2023-Shufei.genruntimeconfig.cache
+C:\Users\lsfch\Documents\02 Study\5097XR\cs5097-Spring2023-Shufei\obj\Debug\net7.0\ref\cs5097-Spring2023-Shufei.dll
